@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the following paper."
+type: dataset
+authors:
+  - family-names: "Zak"
+    given-names: "Xaver"
+  - family-names: "Brida"
+    given-names: "Peter"
+  - family-names: "Machaj"
+    given-names: "Juraj"
+title: "Impact of Router Count on Network Performance in OpenThread"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Zak"
+      given-names: "Xaver"
+    - family-names: "Brida"
+      given-names: "Peter"
+    - family-names: "Machaj"
+      given-names: "Juraj"
+  title: "Impact of Router Count on Network Performance in OpenThread"
+  journal: "IoT"
+  volume: 7
+  issue: 1
+  start: 8
+  year: 2026
+  issn: "2624-831X"
+  doi: "10.3390/iot7010008"
+  url: "https://www.mdpi.com/2624-831X/7/1/8"
